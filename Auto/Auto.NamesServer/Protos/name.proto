@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace = "Auto.NamesEngine";
+
+package name;
+
+service Namer {
+  rpc GetName (NameRequest) returns (NameReply);
+}
+
+message NameRequest {
+  string animal = 1;
+  string category = 2;
+  string serial = 3;
+  string title = 4;
+  string price = 5;
+}
+
+message NameReply {
+  string name = 1;
+  string weightCode = 2;
+}

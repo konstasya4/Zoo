@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Name.cs \
+obj\Debug\net6.0/NameGrpc.cs: ../Auto.NamesServer/Protos/name.proto

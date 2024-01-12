@@ -1,0 +1,11 @@
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\bin\Debug\net6.0\Auto.Messages.deps.json
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\bin\Debug\net6.0\Auto.Messages.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\bin\Debug\net6.0\Auto.Messages.pdb
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfoInputs.cache
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfo.cs
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.CoreCompileInputs.cache
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\refint\Auto.Messages.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\Auto.Messages.pdb
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Messages\obj\Debug\net6.0\ref\Auto.Messages.dll

@@ -1,0 +1,16 @@
+@* @model Auto.Core.Entities.Product
+@{
+    ViewData["Title"] = $"{Category.Serial} : Auto";
+}
+<h1>@Category.Serial</h1>
+<hr />
+<dl>
+    <dt>Make:</dt>
+    <dd><a href="@Url.Action("Categories", "Animals", new { id = Category.ProductCategory.AnimalCode})">@Category.ProductCategory.Animal.Title</a></dd>
+    <dt>Category:</dt>
+    <dd>@Category.ProductCategory.Name</dd>
+    <dt>Title:</dt>
+    <dd>@Category.Title</dd>
+    <dt>Price:</dt>
+    <dd>@Category.Price</dd>
+</dl> *@

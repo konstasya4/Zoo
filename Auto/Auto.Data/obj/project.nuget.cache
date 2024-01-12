@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsjH6wYkhAb8+WwJwFi0zuGte2x9/buD6ejPiN7GAjrnn8prgn9j2gFdiNhXSoRr+HWuhAn5sE9VIhFvZ7D4ZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\Системно-ориентированное программирование\\Новая папка\\Auto\\Auto.Data\\Auto.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.dependencyinjection.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.dependencyinjection.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.logging\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.logging.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.logging.abstractions.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.options\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.options.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.2-mauipre.1.22102.15\\microsoft.extensions.primitives.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.2-mauipre.1.22102.15\\system.diagnostics.diagnosticsource.6.0.2-mauipre.1.22102.15.nupkg.sha512",
+    "C:\\Users\\konst\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.2-mauipre.1.22102.15\\system.runtime.compilerservices.unsafe.6.0.2-mauipre.1.22102.15.nupkg.sha512"
+  ],
+  "logs": []
+}

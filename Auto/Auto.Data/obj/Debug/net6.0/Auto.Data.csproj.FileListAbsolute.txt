@@ -1,0 +1,33 @@
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\csv-data\manufacturers.csv
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\csv-data\models.csv
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\csv-data\vehicles.csv
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.deps.json
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.dll
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.pdb
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\Auto.Core.dll
+G:\Diploma\Auto\Auto.Data\bin\Debug\net6.0\Auto.Core.pdb
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.AssemblyReference.cache
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.AssemblyInfoInputs.cache
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.AssemblyInfo.cs
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.CoreCompileInputs.cache
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.CopyComplete
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.dll
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\refint\Auto.Data.dll
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.pdb
+G:\Diploma\Auto\Auto.Data\obj\Debug\net6.0\ref\Auto.Data.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.deps.json
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\bin\Debug\net6.0\Auto.Data.pdb
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\bin\Debug\net6.0\Auto.Core.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\bin\Debug\net6.0\Auto.Core.pdb
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.AssemblyReference.cache
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.AssemblyInfoInputs.cache
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.AssemblyInfo.cs
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.CoreCompileInputs.cache
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.csproj.CopyComplete
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\refint\Auto.Data.dll
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\Auto.Data.pdb
+D:\Учеба\Системно-ориентированное программирование\Новая папка\Auto\Auto.Data\obj\Debug\net6.0\ref\Auto.Data.dll

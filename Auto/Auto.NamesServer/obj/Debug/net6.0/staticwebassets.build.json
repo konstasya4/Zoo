@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ua+JtCorbcqrKB6UUWemU/UdqS/Z9W1oTFxxsHF8L4=",
+  "Source": "Auto.NamesServer",
+  "BasePath": "_content/Auto.NamesServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

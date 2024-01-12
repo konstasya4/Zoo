@@ -1,0 +1,29 @@
+@* @Category ProductDto
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+<h4>Advertise a product for sale</h4>
+<form asp-action="Advertise" asp-controller="Products" method="POST" id="advertise-product-form">
+    @Html.HiddenFor(category => category.CategoryCode)
+    @Html.HiddenFor(category => category.CategoryName)
+    Make &amp; Category: @Html.DisplayFor(category => category.CategoryName)
+    <hr />
+    <p>
+        @Html.LabelFor(category => category.Serial)
+        @Html.EditorFor(category => category.Serial)
+        @Html.ValidationMessageFor(category => category.Serial)
+    </p>
+    <p>
+        @Html.LabelFor(category => category.Title)
+        @Html.EditorFor(category => category.Title)
+        @Html.ValidationMessageFor(category => category.Title)
+    </p>
+    <p>
+        @Html.LabelFor(category => category.Price)
+        @Html.DropDownListFor(category => category.Price)
+        @Html.ValidationMessageFor(category => category.Price)
+    </p>
+    <input type="submit" value="Advertise!" />
+</form> *@

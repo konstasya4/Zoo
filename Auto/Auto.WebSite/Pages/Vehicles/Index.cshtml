@@ -1,0 +1,12 @@
+@* @model IEnumerable<Auto.Core.Entities.Vehicle>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<ul>
+    @foreach (var product in Category) {
+        <li>
+            <a href="@Url.Action("Details", "Products", new { id = product.Serial })">@product.Serial</a>
+        </li>
+    }
+</ul> *@
